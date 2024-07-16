@@ -3,18 +3,17 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ page.title }} - {{ site.title }}</title>
+    <title>{{ site.title }} - {{ page.title }}</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css">
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    <script src="https://kit.fontawesome.com/d64471fc55.js" crossorigin="anonymous"></script>
 </head>
 <body>
-    <header>
-        <h1>{{ site.title }}</h1>
-    </header>
-    <main>
-        {{ content }}
-    </main>
-    <footer>
-        <p>© 2024 {{ site.title }}</p>
-    </footer>
+    <section class="section">
+        <div class="container content">
+            {{ content }}
+        </div>
+    </section>
+    {% include footer.html %}
 </body>
 </html>
