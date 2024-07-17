@@ -1,0 +1,17 @@
+abbr[title] {
+    cursor: help;
+}
+
+h1, h2 {
+    border-bottom: 2px solid #DDD;
+}
+
+#markdown-toc {
+    border: 1px dashed lightgray;
+    padding: 10px;
+    margin-right: 30px;
+}
+
+#markdown-toc > li {
+  margin-left: 30px;
+}
