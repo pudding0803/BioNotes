@@ -17,8 +17,8 @@ title: Polymerase Chain Reaction
 
 * 模板 DNA
     * 通常是完整的雙鏈 DNA 分子，可能是基因組 DNA、質粒 DNA、cDNA 等
-    * 包含目標 DNA 序列（target DNA）
-* 兩種引子（primer）
+    * 包含目標 DNA 序列 (target DNA)
+* 兩種引子 (primer)
     * 引子：短 DNA 片段，通常長度為 18 ~ 25 個核苷酸
     * 包含 forward primer 與 reverse primer，分別與目標 DNA 序列的 5' 端與 3' 端互補
     * 協助 DNA 聚合酶開始進行 DNA 合成
