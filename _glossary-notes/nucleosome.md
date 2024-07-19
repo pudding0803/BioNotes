@@ -1,3 +1,8 @@
+---
+layout: default
+title: Nucleosome
+---
+
 # nucleosome
 
 [🎥核小體介紹](https://www.youtube.com/watch?v=FYwxJnGq_8c)

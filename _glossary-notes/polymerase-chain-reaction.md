@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Polymerase Chain Reaction
+title: Polymerase Chain Reaction (PCR)
 ---
 
 # Polymerase Chain Reaction (PCR)
