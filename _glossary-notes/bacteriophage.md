@@ -11,6 +11,7 @@ title: Bacteriophage (Phage)
 
 * 中文：噬菌體
 * 一種透過感染細菌或古菌進行複製的病毒
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Phage2.JPG" alt="Bacteriophage Life Cycle" style="height: 400px;" />
 
 ## 分類

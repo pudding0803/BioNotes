@@ -32,6 +32,7 @@ title: Nucleosome
 * 位於核小體與核小體之間，協助核小體之間的纏繞
 * 協助組蛋白穩定
 * 較少 H1 使轉錄更活躍
+
 <img src="https://search-static.byjusweb.com/question-images/byjus/infinitestudent-images/ckeditor_assets/pictures/78305/content_nucleosome.png" alt="histone" style="height: 250px;"/>
 
 ## N-terminal tails
@@ -39,4 +40,5 @@ title: Nucleosome
 * 組蛋白會從核心伸出一條胺基酸鏈（如下圖）
 * 一些後轉譯修飾 (PTM) 都會改變組蛋白 (histone) 的穩定度、親水性等化學因子
 * 不同的化學修飾組合都會對核小體造成影響，稱為 histone code
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Histone_modification.pdf/page1-799px-Histone_modification.pdf.jpg?20150701152533" alt="N-terminal tails"/>
