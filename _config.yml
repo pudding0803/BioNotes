@@ -1,8 +1,11 @@
 title: BioNotes
+baseurl: "/BioNotes"
 plugins:
   - jekyll-feed
 kramdown:
   toc_levels: 2..4
 collections:
+  research-notes:
+    output: true
   glossary-notes:
     output: true
