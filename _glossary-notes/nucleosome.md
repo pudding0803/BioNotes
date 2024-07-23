@@ -12,7 +12,7 @@ title: nucleosome
 ## 簡介
 
 - 中文：核小體
-- 包含 8 個組蛋白 (histone) 與一段 DNA（約纏繞 1.65 圈，146 bp，但仍有不同說法）
+- 包含 8 個組蛋白 (histone) 與一段 [DNA](deoxyribonucleic-acid)（約纏繞 1.65 圈，146 bp，但仍有不同說法）
 - 各兩個 H2A、H2B、H3、H4 形成組蛋白八聚體 (octamer)，為核小體的核心
 - 組蛋白可以被一些化學基團修飾
   - 如甲基化 (methylation)、乙基化 (acetylation)、磷酸化 (phosphorylation)

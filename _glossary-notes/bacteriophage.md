@@ -18,17 +18,17 @@ title: bacteriophage (phage)
 
 ### Virulent Phage（烈性噬菌體）
 
-- 透過<a href="#lytic-cycle">裂解週期</a>進行複製
+- 透過[裂解週期](#lytic-cycle)進行複製
 - 在感染細胞不久後，就會在週期中將其殺死
-- 可能發生 <a href="horizontal-gene-transfer#generalized-transduction">generalized transduction</a>
+- 可能發生 [generalized transduction](horizontal-gene-transfer#generalized-transduction)
 
 ### Temperate Phage（溫和噬菌體）
 
-- 透過<a href="#lysogenic-cycle">溶源週期</a>進行複製
+- 透過[溶源週期](#lysogenic-cycle)進行複製
 - 感染細胞後不會立刻將細胞殺死
 - 具有將溶源週期轉換為裂解週期的能力
 - 長期潛伏於宿主細胞中，於適當時機轉換為裂解週期並將其殺死
-- 可能發生 <a href="horizontal-gene-transfer#specialized-transduction">specialized transduction</a>
+- 可能發生 [specialized transduction](horizontal-gene-transfer#specialized-transduction)
 
 ## 週期
 

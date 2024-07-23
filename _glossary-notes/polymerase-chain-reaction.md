@@ -8,7 +8,7 @@ title: Polymerase Chain Reaction (PCR)
 ## 簡介
 
 - 中文：聚合酶連鎖反應
-- 一種快速製備特定 DNA 樣本的方法
+- 一種快速製備特定 [DNA](deoxyribonucleic-acid) 樣本的方法
 - 通常透過熱循環，使試劑重複加熱和冷卻
 
 ## 步驟
@@ -16,7 +16,7 @@ title: Polymerase Chain Reaction (PCR)
 ### 製備反應混合物（僅列主要材料）
 
 - 模板 DNA
-    - 通常是完整的雙鏈 DNA 分子，可能是基因組 DNA、質粒 DNA、cDNA 等
+    - 通常是完整的雙鏈 DNA 分子，可能是基因組 DNA、質體 DNA、cDNA 等
     - 包含目標 DNA 序列 (target DNA)
 - 兩種引子 (primer)
     - 引子：短 DNA 片段，通常長度為 18 ~ 25 個核苷酸
@@ -26,7 +26,7 @@ title: Polymerase Chain Reaction (PCR)
     - 基本上都是使用熱穩定 DNA 聚合酶，例如 Taq 聚合酶
     - 若聚合酶是熱敏感的，會導致在[變性](#denaturation)步驟下永久失去活性，導致每個循環都要加入新的 DNA 聚合酶，使成本與耗時增加
 - dNTPs
-    - 四種去氧核苷酸（dATP、dCTP、dGTP、dTTP）用以合成 DNA 鏈
+    - 四種去氧核苷三磷酸 (dNTP) 用以合成 DNA 鏈
 - 反應緩衝液
     - 提供適當的 pH 值和離子環境維持 DNA 聚合酶的活性，通常使用 $\ce{Mg^2+}$
 
@@ -34,7 +34,7 @@ title: Polymerase Chain Reaction (PCR)
 
 - 溫度：約 94 ~ 98 °C
 - 目的：將 DNA 從雙鏈分離成單鏈
-- 原理：破壞互補鹼基之間的氫鍵
+- 原理：破壞互補[鹼基](nitrogenous-base)之間的氫鍵
 
 ### Annealing（退火）
 
