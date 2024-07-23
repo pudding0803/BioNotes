@@ -5,5 +5,5 @@ title: Research Notes
 
 # Research Notes🔍
 
-* TOC
+- TOC
 {:toc}

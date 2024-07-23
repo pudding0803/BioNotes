@@ -12,6 +12,6 @@ title: Glossary Notes
 ## {{ current_letter }}
             {% assign previous_letter = current_letter %}
         {% endif %}
-* [{{ note.title }}]({{ site.baseurl }}{{ note.url }})
+- [{{ note.title }}]({{ site.baseurl }}{{ note.url }})
     {% endif %}
 {% endfor %}
