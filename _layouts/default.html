@@ -6,6 +6,7 @@
     <title>{{ site.title }} - {{ page.title }}</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css">
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
     <script src="https://kit.fontawesome.com/d64471fc55.js" crossorigin="anonymous"></script>
     <script>
     MathJax = {
@@ -24,5 +25,11 @@
         </div>
     </section>
     {% include footer.html %}
+    <script async>
+        $(document).ready(function() {
+            $('table').addClass('table is-bordered is-striped is-hoverable');
+            $('table').css('width', 'auto');
+        });
+    </script>
 </body>
 </html>
