@@ -12,7 +12,7 @@ title: Horizontal Gene Transfer (HGT)
 - 中文：基因水平轉移
 - 指基因在不同個體間的非親代傳遞
 
-<img src="https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F8623_2015_46/MediaObjects/978-3-662-49131-7_46_Fig1_HTML.png" alt="Horizontal Gene Transfer" style="height: 300px;" /> 
+<img src="https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F8623_2015_46/MediaObjects/978-3-662-49131-7_46_Fig1_HTML.png" alt="Horizontal Gene Transfer" data-zoom="0.9" /> 
 
 ## 分類 
 
@@ -35,7 +35,7 @@ title: Horizontal Gene Transfer (HGT)
         - 包含宿主 DNA 的噬菌體進行複製，並組裝成新的噬菌體
         - 當新噬菌體被釋放時，包含宿主 DNA 的噬菌體感染其他細菌，發生基因轉移
 
-<img src="https://d3kfrrhrj36vzx.cloudfront.net/images/1657598242952_9g33jyuz.png" alt="generalized and specialized transduction" style="height: 450px;" /> 
+<img src="https://d3kfrrhrj36vzx.cloudfront.net/images/1657598242952_9g33jyuz.png" alt="generalized and specialized transduction" data-zoom="0.9" /> 
 
 ### Transformation（轉化）
 

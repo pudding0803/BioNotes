@@ -29,7 +29,7 @@ title: Ribonucleic Acid (RNA)
 - 藉此反密碼子 (anticodon) 與位於核糖體小亞基中 A 位點的 mRNA 密碼子 (codon) 配對
 - 詳見[轉譯](translation)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/TRNA-Phe_yeast_1ehz.png/800px-TRNA-Phe_yeast_1ehz.png" alt="tRNA" style="height: 300px;" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/TRNA-Phe_yeast_1ehz.png/800px-TRNA-Phe_yeast_1ehz.png" alt="tRNA" data-zoom="0.4" />
 
 ### <span id="ribosomal-RNA">ribosomal RNA (rRNA)</span>
 

@@ -14,7 +14,7 @@ title: Nucleotide
     - 一個五碳醣 (pentose)，為核糖 (ribose) 或去氧核糖 (deoxyribose)
     - 一到三個磷酸基團（phosphate group）
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Nucleotides_1.svg/1920px-Nucleotides_1.svg.png" alt="nucleotide" style="height: 250px;" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Nucleotides_1.svg/1920px-Nucleotides_1.svg.png" alt="nucleotide" data-zoom="0.4" />
 
 ## nucleosides（核苷）
 

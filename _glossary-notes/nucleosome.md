@@ -32,7 +32,7 @@ title: Nucleosome
 - 協助組蛋白穩定
 - 較少 H1 使轉錄更活躍
 
-<img src="https://search-static.byjusweb.com/question-images/byjus/infinitestudent-images/ckeditor_assets/pictures/78305/content_nucleosome.png" alt="histone" style="height: 250px;" />
+<img src="https://search-static.byjusweb.com/question-images/byjus/infinitestudent-images/ckeditor_assets/pictures/78305/content_nucleosome.png" alt="histone" data-zoom="0.7" />
 
 ## N-terminal tails
 

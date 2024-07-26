@@ -23,7 +23,7 @@ title: Translation
 - <abbr title="真核生物為 eIFs 家族，原核生物為 IFs 家族">起始因子 (initiation factor)</abbr> 協助將起始 tRNA 與核糖體小亞基結合，並攜帶到 mRNA 的起始密碼子（AUG）上結合
 - 核糖體大亞基加入形成核糖體複合物，接著起始因子離開，此時起始 tRNA 位於 P 位點
 
-<img src="https://ib.bioninja.com.au/img/initiation1.jpg" alt="Initiation" style="height: 250px;" />
+<img src="https://ib.bioninja.com.au/img/initiation1.jpg" alt="Initiation" data-zoom="0.2" />
 
 ### Elongation（延伸）
 
@@ -34,7 +34,7 @@ title: Translation
 - 核糖體向 3' 端移動一個密碼子，A 位點的 tRNA 移動到 P 位點，而 P 位點的 tRNA 移動到 E 位點並離開核糖體
 - 重複以上動作直到終止環節
 
-<img src="https://ib.bioninja.com.au/img/elongation1.jpg" alt="Elongation" style="height: 250px;" />
+<img src="https://ib.bioninja.com.au/img/elongation1.jpg" alt="Elongation" data-zoom="0.2" />
 
 
 ### Termination（終止）
@@ -43,4 +43,4 @@ title: Translation
 - 釋放因子使 P 位點的肽鏈從 tRNA 上水解並釋放到細胞質中，P 位點的 tRNA 從 E 位點離開核糖體
 - 核糖體解離因子 (ribosome recycling factor) 被吸引進入核糖體，使核糖體的大、小亞基分離
 
-<img src="https://ib.bioninja.com.au/img/termination1.jpg" alt="Termination" style="height: 300px;" />
+<img src="https://ib.bioninja.com.au/img/termination1.jpg" alt="Termination" data-zoom="0.2" />
