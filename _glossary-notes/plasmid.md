@@ -1,11 +1,11 @@
 ---
 layout: default
-title: plasmid
+title: Plasmid
 ---
 
-[🎥質體介紹](https://www.youtube.com/watch?v=SdqJFA6mOkI&ab_channel=Addgene)
+- [🎥質體介紹](https://www.youtube.com/watch?v=SdqJFA6mOkI)
 
-# plasmid
+# Plasmid
 
 ## 簡介
 

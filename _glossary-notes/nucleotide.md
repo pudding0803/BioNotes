@@ -1,18 +1,18 @@
 ---
 layout: default
-title: nucleotide
+title: Nucleotide
 ---
 
-# nucleotide
+# Nucleotide
 
 ## 簡介
 
 - 中文：核苷酸
 - [核酸](nucleic-acid)的基本組單位
 - 組成
-  - 一個[含氮鹼基](nitrogenous-base)
-  - 一個五碳醣 (pentose)，為核糖 (ribose) 或去氧核糖 (deoxyribose)
-  - 一到三個磷酸基團（phosphate group）
+    - 一個[含氮鹼基](nitrogenous-base)
+    - 一個五碳醣 (pentose)，為核糖 (ribose) 或去氧核糖 (deoxyribose)
+    - 一到三個磷酸基團（phosphate group）
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Nucleotides_1.svg/1920px-Nucleotides_1.svg.png" alt="nucleotide" style="height: 250px;" />
 
@@ -39,8 +39,8 @@ title: nucleotide
 
 - 由胸腺嘧啶 (thymine) 與去氧核糖組成
 - 與其他鹼基形成的核苷不同
-  - 由於本身就是指去氧，因此通常不會再加上 `deoxy-`
-  - 若是胸腺嘧啶與核糖組成，稱為 5-甲基尿苷 (5-methyluridine)
+    - 由於本身就是指去氧，因此通常不會再加上 `deoxy-`
+    - 若是胸腺嘧啶與核糖組成，稱為 5-甲基尿苷 (5-methyluridine)
 - 符號：T 或 Thd
 
 ### Uridine（尿苷）

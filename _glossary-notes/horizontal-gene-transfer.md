@@ -5,7 +5,7 @@ title: Horizontal Gene Transfer (HGT)
 
 # Horizontal Gene Transfer (HGT)
 
-[🎥基因水平轉移介紹](https://www.youtube.com/watch?v=08Q-MVeNeTU)
+- [🎥基因水平轉移介紹](https://www.youtube.com/watch?v=08Q-MVeNeTU)
 
 ## 簡介
 

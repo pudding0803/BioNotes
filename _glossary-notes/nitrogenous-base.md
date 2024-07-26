@@ -1,9 +1,9 @@
 ---
 layout: default
-title: nitrogenous base
+title: Nitrogenous Base
 ---
 
-# nitrogenous base
+# Nitrogenous Base
 
 ## 簡介
 
@@ -14,12 +14,12 @@ title: nitrogenous base
 ## 常見的核鹼基
 
 - 分為兩種
-  - 嘌呤（purines）
-    - 化學式：$\ce{C5H4N4}$
-    - 由嘧啶與咪唑兩個環融合組成的雙環結構
-      > 咪唑 (imidazole)，化學式：$\ce{C3H4N2}$
-  - 嘧啶（pyrimidines）
-    - 化學式：$\ce{C4H4N2}$
+    - 嘌呤（purines）
+        - 化學式：$\ce{C5H4N4}$
+        - 由嘧啶與咪唑兩個環融合組成的雙環結構
+          > 咪唑 (imidazole)，化學式：$\ce{C3H4N2}$
+    - 嘧啶（pyrimidines）
+        - 化學式：$\ce{C4H4N2}$
 
 ### Adenine（腺嘌呤）
 
@@ -48,10 +48,10 @@ title: nitrogenous base
 - 一般情況下只存在於 DNA 中
 - 與 A 配對形成兩個氫鍵
 
-###  Uracil（尿嘧啶）
+### Uracil（尿嘧啶）
 
 - 符號：U 或 Ura
 - 化學式：$\ce{C4H4N2O2}$
-- 在 DNA 轉錄後取代 T，為 T 之去甲基化形式
+- 在 DNA [轉錄](transcription)後取代 T，為 T 之去甲基化形式
 - 一般情況下只存在於 RNA 中
 - 與 A 配對形成兩個氫鍵

@@ -1,13 +1,12 @@
 ---
 layout: default
-title: nucleosome
+title: Nucleosome
 ---
 
-# nucleosome
+# Nucleosome
 
-[🎥核小體介紹](https://www.youtube.com/watch?v=FYwxJnGq_8c)
-
-[🎥從 DNA 纏繞成染色體](https://www.youtube.com/watch?v=gbSIBhFwQ4s)
+- [🎥核小體介紹](https://www.youtube.com/watch?v=FYwxJnGq_8c)
+- [🎥從 DNA 纏繞成染色體](https://www.youtube.com/watch?v=gbSIBhFwQ4s)
 
 ## 簡介
 
@@ -15,8 +14,8 @@ title: nucleosome
 - 包含 8 個組蛋白 (histone) 與一段 [DNA](deoxyribonucleic-acid)（約纏繞 1.65 圈，146 bp，但仍有不同說法）
 - 各兩個 H2A、H2B、H3、H4 形成組蛋白八聚體 (octamer)，為核小體的核心
 - 組蛋白可以被一些化學基團修飾
-  - 如甲基化 (methylation)、乙基化 (acetylation)、磷酸化 (phosphorylation)
-  - 藉此改變 DNA 纏繞的鬆緊程度 $\to$ 影響可及性
+    - 如甲基化 (methylation)、乙基化 (acetylation)、磷酸化 (phosphorylation)
+    - 藉此改變 DNA 纏繞的鬆緊程度 $\to$ 影響可及性
 
 ## 形成過程
 
@@ -33,7 +32,7 @@ title: nucleosome
 - 協助組蛋白穩定
 - 較少 H1 使轉錄更活躍
 
-<img src="https://search-static.byjusweb.com/question-images/byjus/infinitestudent-images/ckeditor_assets/pictures/78305/content_nucleosome.png" alt="histone" style="height: 250px;"/>
+<img src="https://search-static.byjusweb.com/question-images/byjus/infinitestudent-images/ckeditor_assets/pictures/78305/content_nucleosome.png" alt="histone" style="height: 250px;" />
 
 ## N-terminal tails
 
@@ -41,4 +40,4 @@ title: nucleosome
 - 一些後轉譯修飾 (PTM) 都會改變組蛋白 (histone) 的穩定度、親水性等化學因子
 - 不同的化學修飾組合都會對核小體造成影響，稱為 histone code
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Histone_modification.pdf/page1-799px-Histone_modification.pdf.jpg?20150701152533" alt="N-terminal tails"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Histone_modifications.png/640px-Histone_modifications.png" referrerpolicy="no-referrer" alt="Histone code" />

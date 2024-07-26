@@ -1,9 +1,9 @@
 ---
 layout: default
-title: transposon
+title: Transposon
 ---
 
-# transposon
+# Transposon
 
 ## 簡介
 
