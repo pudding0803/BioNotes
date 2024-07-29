@@ -1,9 +1,18 @@
-abbr[title] {
-    cursor: help;
+h1, h2 {
+    border-bottom: 2px solid #ddd;
 }
 
-h1, h2 {
-    border-bottom: 2px solid #DDD;
+figure {
+    width: fit-content;
+}
+
+figcaption {
+    word-wrap: break-word;
+    max-width: 100%;
+}
+
+abbr[title] {
+    cursor: help;
 }
 
 #markdown-toc {

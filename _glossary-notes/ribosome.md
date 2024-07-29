@@ -12,7 +12,10 @@ title: Ribosome
 - 由蛋白質與 [rRNA](ribonucleic-acid#ribosomal-RNA) 所組成
 - 分為大、小亞基，平時不會結合，只有要在[轉譯](translation)時會結合形成核糖體複合物 (ribosome complex)
 
-<img src="https://media.geeksforgeeks.org/wp-content/uploads/20240321093522/Ribosome.png" alt="Ribosome" style="height: 400px;" />
+<img src="https://useruploads.socratic.org/yEgzS8ykQlGML18AKTYc_ribosome.gif" alt="Ribosome"
+     data-zoom="0.5" data-caption="橘色為 rRNA，藍色為核糖體蛋白質" />
+
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20240321093522/Ribosome.png" alt="Ribosome" data-zoom="0.7" />
 
 ## Ribosomal Subunit（核糖體亞基）
 
@@ -47,4 +50,5 @@ title: Ribosome
 
 - 此位點為 tRNA 的出口位點，原本多肽鏈被轉移走的 tRNA 會進到此位點，並準備離開核糖體
 
-<img src="https://cdn.kastatic.org/ka-perseus-images/b526aaa21fea30cc9e3b1cb7da6d5ea6ee6520b3.png" alt="A, P, E sites in ribosome" style="height: 550px;" />
+<img src="https://cdn.kastatic.org/ka-perseus-images/b526aaa21fea30cc9e3b1cb7da6d5ea6ee6520b3.png" alt="A, P, E sites in ribosome"
+     data-zoom="0.2" data-caption="流程圖從上方開始看" />
