@@ -5,8 +5,9 @@ title: Nucleosome
 
 # Nucleosome
 
-- [🎥核小體介紹](https://www.youtube.com/watch?v=FYwxJnGq_8c)
-- [🎥從 DNA 纏繞成染色體](https://www.youtube.com/watch?v=gbSIBhFwQ4s)
+[🎥 核小體介紹](https://www.youtube.com/watch?v=FYwxJnGq_8c)
+
+[🎥 從 DNA 纏繞成染色體](https://www.youtube.com/watch?v=gbSIBhFwQ4s)
 
 ## 簡介
 

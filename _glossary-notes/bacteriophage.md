@@ -5,7 +5,7 @@ title: Bacteriophage (Phage)
 
 # Bacteriophage (Phage)
 
-- [🎥噬菌體介紹](https://www.youtube.com/watch?v=YI3tsmFsrOg)
+[🎥 噬菌體介紹](https://www.youtube.com/watch?v=YI3tsmFsrOg)
 
 ## 簡介
 

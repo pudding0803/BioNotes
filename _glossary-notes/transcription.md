@@ -3,9 +3,9 @@ layout: default
 title: Transcription
 ---
 
-- [🎥轉錄與轉譯](https://www.youtube.com/watch?v=gG7uCskUOrA)
-
 # Transcription
+
+[🎥 轉錄與轉譯](https://www.youtube.com/watch?v=gG7uCskUOrA)
 
 ## 簡介
 

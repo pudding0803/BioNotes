@@ -3,11 +3,13 @@ layout: default
 title: Translation
 ---
 
-- [🎥轉錄與轉譯](https://www.youtube.com/watch?v=gG7uCskUOrA)
-- [🎥真核生物的轉譯](https://www.youtube.com/watch?v=qIwrhUrvX-k)
-- [🎥原核生物的轉譯](https://www.youtube.com/watch?v=KZBljAM6B1s)
-
 # Translation
+
+[🎥 轉錄與轉譯](https://www.youtube.com/watch?v=gG7uCskUOrA)
+
+[🎥 真核生物的轉譯](https://www.youtube.com/watch?v=qIwrhUrvX-k)
+
+[🎥 原核生物的轉譯](https://www.youtube.com/watch?v=KZBljAM6B1s)
 
 ## 簡介
 

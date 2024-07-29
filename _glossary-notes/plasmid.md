@@ -3,9 +3,9 @@ layout: default
 title: Plasmid
 ---
 
-- [🎥質體介紹](https://www.youtube.com/watch?v=SdqJFA6mOkI)
-
 # Plasmid
+
+[🎥 質體介紹](https://www.youtube.com/watch?v=SdqJFA6mOkI)
 
 ## 簡介
 
