@@ -15,6 +15,14 @@ abbr[title] {
     cursor: help;
 }
 
+div[data-href] {
+    cursor: pointer;
+}
+
+div[data-href]:hover {
+    background-color: #f0f2f4;
+}
+
 #markdown-toc {
     border: 1px dashed lightgray;
     padding: 10px;
