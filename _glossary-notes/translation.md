@@ -14,7 +14,7 @@ title: Translation
 ## 簡介
 
 - 中文：轉譯
-- 透過讀取 [mRNA](ribonucleic-acid#messenger-RNA) 序列並將對應的氨基酸連接形成蛋白質的過程
+- 透過讀取 [mRNA](ribonucleic-acid#messenger-rna) 序列並將對應的氨基酸連接形成蛋白質的過程
 - 發生於細胞質中的[核糖體](ribosome)
 
 ## 步驟
@@ -29,7 +29,7 @@ title: Translation
 
 ### Elongation（延伸）
 
-- 氨酰-tRNA 合成酶 (aminoacyl-tRNA synthetase) 將氨基酸附著到對應且未被氨酰化 (aminoacylation) 的 [tRNA](ribonucleic-acid#transfer-RNA) 上
+- 氨酰-tRNA 合成酶 (aminoacyl-tRNA synthetase) 將氨基酸附著到對應且未被氨酰化 (aminoacylation) 的 [tRNA](ribonucleic-acid#transfer-rna) 上
 - 藉由布朗運動 (Brownian motion)，隨機將 tRNA 擴散到[核糖體](ribosome)
 - 在 A 位點上，能夠與 mRNA 密碼子配對的 tRNA 帶著氨基酸進入核糖體
 - 藉由核糖體大亞基的肽酰轉移酶 (peptidyl transferase) 位點的作用，將 P 位點 tRNA 上的多肽鏈轉移到 A 位點 tRNA 的氨基酸上並形成肽鍵

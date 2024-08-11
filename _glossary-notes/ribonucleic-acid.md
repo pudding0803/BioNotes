@@ -19,7 +19,7 @@ title: Ribonucleic Acid (RNA)
 
 - 中文：非編碼 RNA
 - 不會被[轉譯](translation)成蛋白質的 RNA 分子
-- 一般來說除了 [mRNA](#messenger-RNA) 之外都是 ncRNA
+- 一般來說除了 [mRNA](#messenger-rna) 之外都是 ncRNA
 
 ### small RNA (sRNA)
 
@@ -30,14 +30,14 @@ title: Ribonucleic Acid (RNA)
 
 > 與蛋白質合成相關
 
-### <span id="messenger-RNA">messenger RNA (mRNA)</span>
+### <span id="messenger-rna">messenger RNA (mRNA)</span>
 
 - 中文：信使 RNA
 - 從 [DNA](deoxyribonucleic-acid) [轉錄](transcription)而來，攜帶著一段遺傳訊息
 - 轉譯時由[核糖體](ribosome)讀取以合成蛋白質
 - 最主要的 coding RNA
 
-### <span id="transfer-RNA">transfer RNA (tRNA)</span>
+### <span id="transfer-rna">transfer RNA (tRNA)</span>
 
 - 中文：轉運 RNA
 - 屬於 ncRNA、sRNA
@@ -55,7 +55,7 @@ title: Ribonucleic Acid (RNA)
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/TRNA-Phe_yeast_1ehz.png/800px-TRNA-Phe_yeast_1ehz.png" alt="tRNA"
      data-zoom="0.35" data-caption="黑色部分為反密碼子，而黃色部分為 CCA tail" />
 
-### <span id="ribosomal-RNA">ribosomal RNA (rRNA)</span>
+### <span id="ribosomal-rna">ribosomal RNA (rRNA)</span>
 
 - 中文：核糖體 RNA
 - 屬於 ncRNA、sRNA
@@ -74,10 +74,10 @@ title: Ribonucleic Acid (RNA)
 - 屬於 ncRNA、sRNA
 - 與 RNA silencing 有關，能夠抑制特定的 mRNA
 - 生合成過程
-    - 從基因中轉錄出 primary microRNA (pri-miRNA) 並形成莖環
-    - DGCR8 蛋白辨識出 pri-miRNA，並與 <abbr title="一種 RNA 酶 Ⅲ (Ribonuclease III)">Drosha</abbr> 組合形成 microprocessor complex，將 pri-miRNA 切割成 precursor microRNA (pre-miRNA)
+    - 從基因中轉錄出 primary microRNA (pri-miRNA) 並形成[莖環](stem-loop)
+    - DGCR8 蛋白辨識出 pri-miRNA，並與 <abbr title="一種 RNA 酶 III (Ribonuclease III)">Drosha</abbr> 組合形成 microprocessor complex，將 pri-miRNA 切割成 precursor microRNA (pre-miRNA)
     - 透過 <abbr title="一種核轉運蛋白 (karyopherins)，負責細胞質與細胞核之間的運輸">Exportin-5</abbr> 的協助從核孔離開前往細胞質
-    - <abbr title="一種 RNA 酶 Ⅲ (Ribonuclease III)">Dicer</abbr> 切割掉 miRNA 的環狀部分與周圍序列（使其後續能夠解旋成兩個單鏈 RNA 分子），此時為 mature miRNA
+    - <abbr title="一種 RNA 酶 III (Ribonuclease III)">Dicer</abbr> 切割掉 miRNA 的環狀部分與周圍序列（使其後續能夠解旋成兩個單鏈 RNA 分子），此時為 mature miRNA
     - AGO2 蛋白協助 miRNA 進行解旋，領先股、AGO2、和其他蛋白一同形成 RISC (RNA induced silencing complex)，而延遲股通常被降解
 - RISC 主要功能
     - 抑制轉譯：透過 miRNA 與 target mRNA 的結合，使 RISC 得以妨礙核糖體在 mRNA 上的移動，進而抑制轉譯

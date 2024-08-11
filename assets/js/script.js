@@ -2,6 +2,14 @@ $(document).ready(function () {
     $('table').addClass('table is-bordered is-striped is-hoverable');
     $('table').css('width', 'auto');
 
+    $('ruby').each(function() {
+        var rt = $(this).find('rt');
+        if (rt.length) {
+            rt.before('<rp>(</rp>');
+            rt.after('<rp>)</rp>');
+        }
+    });
+
     $('img[data-zoom]').each(function () {
         const zoom = $(this).data('zoom');
         if ($.isNumeric(zoom) && zoom > 0) {

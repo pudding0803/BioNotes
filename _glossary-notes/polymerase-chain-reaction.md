@@ -30,14 +30,16 @@ title: Polymerase Chain Reaction (PCR)
 - 反應緩衝液
     - 提供適當的 pH 值和離子環境維持 DNA 聚合酶的活性，通常使用 $\ce{Mg^2+}$
 
-### <span id="denaturation">Denaturation（變性）</span>
+### Denaturation
 
+- 中文：變性
 - 溫度：約 94 ~ 98 °C
 - 目的：將 DNA 從雙鏈分離成單鏈
 - 原理：破壞互補[鹼基](nitrogenous-base)之間的氫鍵
 
-### Annealing（退火）
+### Annealing
 
+- 中文：退火
 - 溫度：約 50 ~ 65 °C
 - 目的：引子與模板 DNA 結合
 - 原理：精確調整溫度，使引子專一結合到目標序列上
@@ -46,8 +48,9 @@ title: Polymerase Chain Reaction (PCR)
     - 溫度過低可能導致引子與非目標 DNA 區段結合
     - 通常會根據引子的熔解溫度（Tm，melting temperature）調整溫度
 
-### Extension（延伸）
+### Extension
 
+- 中文：延伸
 - 溫度：約 72 °C
 - 目的：DNA 聚合酶從引子開始合成新的互補 DNA 鏈
 - 原理：DNA 聚合酶在此溫度下最活躍

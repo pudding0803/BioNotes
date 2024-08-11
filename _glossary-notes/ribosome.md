@@ -8,8 +8,8 @@ title: Ribosome
 ## 簡介
 
 - 中文：核糖體
-- 依照 [mRNA](ribonucleic-acid#messenger-RNA) 的密碼子將氨基酸連接形成多肽鏈，進而合成蛋白質
-- 由蛋白質與 [rRNA](ribonucleic-acid#ribosomal-RNA) 所組成
+- 依照 [mRNA](ribonucleic-acid#messenger-rna) 的密碼子將氨基酸連接形成多肽鏈，進而合成蛋白質
+- 由蛋白質與 [rRNA](ribonucleic-acid#ribosomal-rna) 所組成
 - 分為大、小亞基，平時不會結合，只有要在[轉譯](translation)時會結合形成核糖體複合物 (ribosome complex)
 
 <img src="https://useruploads.socratic.org/yEgzS8ykQlGML18AKTYc_ribosome.gif" alt="Ribosome"
@@ -21,7 +21,7 @@ title: Ribosome
 
 ### Ribosomal Small Subunit (RSS)
 
-與 mRNA 結合，並藉由其密碼子配對對應的 [tRNA](ribonucleic-acid#transfer-RNA) 反密碼子
+與 mRNA 結合，並藉由其密碼子配對對應的 [tRNA](ribonucleic-acid#transfer-rna) 反密碼子
 
 ### Ribosomal Large Subunit (RLS)
 
